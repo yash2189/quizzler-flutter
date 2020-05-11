@@ -12,4 +12,4 @@ A quiz app made in flutter
 * private and public modifiers in Dart.
 * How to use Dart lists.
 * The difference between var, const and final.
--  I also added a score calculator to count the correct answers
+* I also added a score calculator to count the correct answers
